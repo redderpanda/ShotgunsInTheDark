@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestructableWall
+  - Monster
+  - MonsterItem
+  - PickUp
+  - ShotGun
+  - Bullet
+  - HealthPack
+  - MachineGun
+  - SpeedBoost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BulletNoCollide
+  - PlayerTrails
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1582658587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Players
+    uniqueID: 2086298529
+    locked: 0
+  - name: Forground
+    uniqueID: 3011341805
+    locked: 0
+  - name: PlayerTrail
+    uniqueID: 861616299
+    locked: 0
